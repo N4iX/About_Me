@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="my_name">Chew Hao Xian</string>
+    <string name="my_pic">My Profile Picture</string>
+    <string name="my_profile_description">
+        DOB : 1/2/3456
+        \nAddress: 123, Jalan Pasar, Taman Hijau, 83000 Batu Pahat, Selangor
+    \n
+    \n
+    \n
+    \n
+    \n
+    \n
+    \n
+    \n
+    \n
+    \n more lines
+    \n
+    \n
+    \n
+    \n
+    \n more more lines</string>
+
+</resources>
